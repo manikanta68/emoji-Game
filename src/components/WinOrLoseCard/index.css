@@ -1,0 +1,66 @@
+.winOrLoss-container {
+  background-color: rgb(235, 218, 250);
+  margin: 40px;
+  padding: 30px;
+  border-style: solid;
+  border-radius: 10px;
+  border: none;
+}
+
+.won-game {
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+.loss-game {
+  padding: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.best-score {
+  font-size: 30px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.scores {
+  color: #6a59ff;
+  font-family: 'Roboto';
+  font-size: 29px;
+  font-weight: 500;
+}
+.play-button {
+  background-color: #ffce27;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  padding: 14px;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: #3d3d3d;
+}
+
+.successFail {
+  display: flex;
+  flex-direction: column;
+}
+.win-heading {
+  color: #ffffff;
+  font-size: 40px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  font-weight: 600;
+}
+.lose-heading {
+  color: #ffffff;
+  font-size: 40px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  font-weight: 600;
+}

@@ -1,0 +1,11 @@
+/* Write your code here. */
+.emoji-bg {
+  background-color: rgb(235, 218, 250);
+  padding: 50px;
+  border-radius: 10px;
+  border: none;
+}
+
+.list-item {
+  margin: 5px;
+}

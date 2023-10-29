@@ -1,0 +1,32 @@
+.nav-bg {
+  background-color: rgb(235, 218, 250);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.nav-head-con {
+  display: flex;
+  align-items: center;
+  margin-left: 80px;
+  padding: 16px;
+}
+.nav-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.score-cont {
+  display: flex;
+  color: #ffffff;
+  margin-right: 80px;
+}
+.score {
+  font-size: 20px;
+  margin-right: 30px;
+}
+.top-score {
+  font-size: 20px;
+  margin-right: 30px;
+}
